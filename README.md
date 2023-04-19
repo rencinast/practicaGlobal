@@ -1,4 +1,5 @@
 # practicaGlobal
 
-push Rodrigo
-push Arevalo Hector
+* push Rodrigo
+* push Arevalo Hector
+* push Andres Montiel
