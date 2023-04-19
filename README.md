@@ -1,4 +1,8 @@
 # practicaGlobal
 
-push Rodrigo
+push Rodrigoz
+master
 push Mariana
+=======
+push Arevalo Hector
+feature/global
